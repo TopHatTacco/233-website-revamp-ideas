@@ -1,0 +1,1 @@
+Our Blog page will be updated with entries throughout the season and offseason, highlighting difficulties and new innovations that we learn while building robots and doing outreach. This will NOT be used as advertising for any social media, fundraiser, or outreach events.
