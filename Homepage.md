@@ -1,4 +1,4 @@
-Top Bar Links: [[About]], [[Media]], [[Resources]], [[Sponsors]], [[Blog]]?, [[For Members]]
+Top Bar Links: [[About]], [[Media]], [[Resources]], [[Sponsors]], [[Outreach]], [[For Members]]
 
 ## Impactful Photo
 ___
@@ -6,7 +6,7 @@ The first thing a person should see when entering our website is our most impact
 
 ## Core Mission Summary
 ___
-Two or so sentences that summarize who we are and what our goals are
+Two or so sentences that summarize who we are and what our goals are.
 
 ## Media Links
 ___

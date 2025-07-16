@@ -11,20 +11,16 @@ ___
 
 "Interested in joining the team? Let us know at our [[Join Page]]!"
 
-#### About First
+#### About FIRST
 ___
 * FIRST Summary
-* Link to FIRST and FRC
+* Link to FIRST and FRC websites, including the "find FIRST near you" site.
 
 #### About Our Mentors
 ___
-* Mentor Appreciation Note
+* Mentor Appreciation Message
 * Each mentor will have a part of the page about them that includes the following:
 	* A picture of their face
 	* Their Role on the team
 	* Their Career expertise
 	* Contact Info/Linkedin (optional)
-
-#### About Our Outreach
-___
-Multiple Pictures and Summaries of our many outreach Initiatives
