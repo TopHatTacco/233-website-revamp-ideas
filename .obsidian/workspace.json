@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "ProxSites/Sponsors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Sponsors"
+            }
+          },
+          {
+            "id": "41a9f15d423df494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks (not now).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks (not now)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,18 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c4f2633b6cff7f0",
+  "active": "41a9f15d423df494",
   "lastOpenFiles": [
-    "ProxSites/Outreach.md",
-    "ProxSites/Sponsors.md",
-    "Homepage.md",
-    "ProxSites/Resources.md",
-    "Other Pages/Blog.md",
-    "ProxSites/Media.md",
-    "ProxSites/For Members.md",
     "ProxSites/About.md",
-    "Other Pages/Join Page.md",
+    "ProxSites/Homepage.md",
+    "ProxSites/Resources.md",
+    "Tasks (not now).md",
+    "ProxSites/Sponsors.md",
+    "ProxSites/Outreach.md",
+    "ProxSites/For Members.md",
+    "ProxSites/Media.md",
+    "Donate.md",
     "Other Pages/Sponsor Page.md",
+    "Other Pages/Blog.md",
+    "Other Pages/Join Page.md",
     "Other Pages",
     "ProxSites",
     "README.md",

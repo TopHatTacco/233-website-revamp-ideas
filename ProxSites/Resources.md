@@ -16,6 +16,10 @@ This page will have sections and links to the following
 * Any Handbooks/Guides
 * TBA Page
 
+## Media
+___
+
+
 #### Github
 ___
 Github links and quick navigation guide
